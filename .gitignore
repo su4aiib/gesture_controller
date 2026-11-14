@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# MediaPipe model (downloaded automatically by the script)
+*.task
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
